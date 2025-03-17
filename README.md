@@ -1,2 +1,2 @@
 # interview_questions
-Python intervieq questions
+Python interview questions
