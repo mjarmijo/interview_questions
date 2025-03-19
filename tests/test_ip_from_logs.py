@@ -1,4 +1,4 @@
-import ip_from_logs as ip
+import log_analysis.ip_from_logs as ip
 
 
 def test_most_freq_ips():
